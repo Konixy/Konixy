@@ -1,6 +1,6 @@
 # 🌐 Socials:
 
- ![Discord](https://img.shields.io/badge/Konixy%231905-5562ea.svg?logo=Discord&logoColor=white) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/konixy_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Konixy2) [![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?logo=Instagram&logoColor=white)](https://www.instagram.com/konixy_)
+ [![Discord](https://img.shields.io/badge/Konixy%231905-5562ea.svg?logo=Discord&logoColor=white)](https://discord.io/NightCorp) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/konixy_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Konixy2) [![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?logo=Instagram&logoColor=white)](https://www.instagram.com/konixy_)
 
 # 🔧 Techs:
 
