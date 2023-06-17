@@ -4,7 +4,7 @@
 
 # 🔧 Techs:
 
-![Next](https://img.shields.io/badge/Next-323330?style=for-the-badge&logo=Next&logoColor=fff) ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=TypeScript&logoColor=007ACC) ![NodeJS](https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=node.js&logoColor=7741) ![TailWind](https://img.shields.io/badge/TailWind-323330?style=for-the-badge&logo=tailwindcss&logoColor=36b7f0) ![Discord.Js](https://img.shields.io/badge/Discord.Js-323330?style=for-the-badge&logo=discord&logoColor=5562ea)
+![Next](https://img.shields.io/badge/Next-323330?style=for-the-badge&logo=NextJs&logoColor=fff) ![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=TypeScript&logoColor=007ACC) ![NodeJS](https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=node.js&logoColor=7741) ![TailWind](https://img.shields.io/badge/TailWind-323330?style=for-the-badge&logo=tailwindcss&logoColor=36b7f0) ![Discord.Js](https://img.shields.io/badge/Discord.Js-323330?style=for-the-badge&logo=discord&logoColor=5562ea)
 
 # 📊 Stats:
 
