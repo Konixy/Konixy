@@ -1,6 +1,6 @@
 # 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/%40dj.anatole-DD2A7B?logo=Instagram&logoColor=white)](https://www.instagram.com/dj.anatole) ![Discord](https://img.shields.io/badge/konixy-%235865F2.svg?logo=Discord&logoColor=white)
+[![Instagram](https://img.shields.io/badge/%40anatole.music-DD2A7B?logo=Instagram&logoColor=white)](https://www.instagram.com/anatole.music) ![Discord](https://img.shields.io/badge/konixy-%235865F2.svg?logo=Discord&logoColor=white)
  [![X](https://img.shields.io/badge/%40Konixy2-%230f0f0f.svg?logo=X&logoColor=white)](https://x.com/Konixy2)
 
 # 🔧 Techs:
