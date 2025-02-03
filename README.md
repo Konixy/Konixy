@@ -9,7 +9,7 @@
 
 ## 🗂️ Important repos:
 
-[![Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=chat-app&show_icons=true&theme=dark)](https://github.com/Konixy/chat-app) &nbsp;&nbsp;&nbsp; [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=konixy.fr&show_icons=true&theme=dark)](https://github.com/Konixy/konixy.fr)  
+[![Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=chat-app&show_icons=true&theme=dark)](https://github.com/Konixy/chat-app) &nbsp;&nbsp;&nbsp; [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=chat-svelte&show_icons=true&theme=dark)](https://github.com/Konixy/chat-svelte)  
 
 ## 🌐 Socials:
 
