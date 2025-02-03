@@ -1,11 +1,11 @@
 ## 🔧 Techs:
 
-[![Next.js](https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=Next.Js&logoColor=fff)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=TypeScript&logoColor=007ACC)](https://www.typescriptlang.org/) [![NodeJS](https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=node.js&logoColor=7741)](https://nodejs.org/) [![GraphQL](https://img.shields.io/badge/GraphQL-323330?style=for-the-badge&logo=graphql&logoColor=E10098)](https://graphql.org/) [![TailWind](https://img.shields.io/badge/TailWind-323330?style=for-the-badge&logo=tailwindcss&logoColor=36b7f0)](https://tailwindcss.com/) [![Discord.Js](https://img.shields.io/badge/Discord.Js-323330?style=for-the-badge&logo=discord&logoColor=5562ea)](https://discord.js.org/)
+[![Svelte](https://img.shields.io/badge/Svelte-323330?style=for-the-badge&logo=Svelte&logoColor=F83D00)](https://svelte.dev/) [![Next.js](https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=Next.Js&logoColor=fff)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=TypeScript&logoColor=007ACC)](https://www.typescriptlang.org/) [![TailWind](https://img.shields.io/badge/TailWind-323330?style=for-the-badge&logo=tailwindcss&logoColor=36b7f0)](https://tailwindcss.com/) [![NodeJS](https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=node.js&logoColor=7741)](https://nodejs.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=69A645)](https://mongodb.com/) [![Prisma](https://img.shields.io/badge/Prisma-323330?style=for-the-badge&logo=prisma&logoColor=fff)](https://www.prisma.io/) [![GraphQL](https://img.shields.io/badge/GraphQL-323330?style=for-the-badge&logo=graphql&logoColor=E10098)](https://graphql.org/)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Konixy&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark)
+<!-- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Konixy&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark) -->
 
 ## 🎯 Currently learning:
-[![Svelte](https://img.shields.io/badge/Svelte-323330?style=for-the-badge&logo=Svelte&logoColor=F83D00)](https://svelte.dev/) [![Three.js](https://img.shields.io/badge/Three.js-323330?style=for-the-badge&logo=Three.js&logoColor=fff)](https://threejs.org/)
+[![Three.js](https://img.shields.io/badge/Three.js-323330?style=for-the-badge&logo=Three.js&logoColor=fff)](https://threejs.org/)
 
 ## 🗂️ Important repos:
 
