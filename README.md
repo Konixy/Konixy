@@ -7,11 +7,10 @@
 ## 🎯 Currently learning:
 [![Three.js](https://img.shields.io/badge/Three.js-323330?style=for-the-badge&logo=Three.js&logoColor=fff)](https://threejs.org/)
 
-## 🗂️ Important repos:
+## 🗂️ Currently working on:
 
-[![Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=chat-app&show_icons=true&theme=dark)](https://github.com/Konixy/chat-app) &nbsp;&nbsp;&nbsp; [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=chat-svelte&show_icons=true&theme=dark)](https://github.com/Konixy/chat-svelte)  
+[![Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=chat-svelte&show_icons=true&theme=dark)](https://github.com/Konixy/chat-svelte)  &nbsp;&nbsp;&nbsp; [![VisionOS UI](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=visionos-svelte&show_icons=true&theme=dark)](https://github.com/Konixy/visionos-svelte)
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/%40anatole.music-DD2A7B?logo=Instagram&logoColor=white)](https://www.instagram.com/anatole.music) ![Discord](https://img.shields.io/badge/konixy-%235865F2.svg?logo=Discord&logoColor=white)
- [![X](https://img.shields.io/badge/%40Konixy2-%230f0f0f.svg?logo=X&logoColor=white)](https://x.com/Konixy2)
+[![Instagram](https://img.shields.io/badge/%40anatole.music-DD2A7B?logo=Instagram&logoColor=white)](https://www.instagram.com/anatole.music) [![X](https://img.shields.io/badge/%40anatoleduf-%230f0f0f.svg?logo=X&logoColor=white)](https://x.com/anatoleduf) ![Discord](https://img.shields.io/badge/konixy-%235865F2.svg?logo=Discord&logoColor=white)
