@@ -9,7 +9,8 @@
 
 ## 🗂️ Currently working on:
 
-[![Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=chat-svelte&show_icons=true&theme=dark)](https://github.com/Konixy/chat-svelte)  &nbsp;&nbsp;&nbsp; [![VisionOS UI](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=visionos-svelte&show_icons=true&theme=dark)](https://github.com/Konixy/visionos-svelte)
+A SaaS I created, coming very soon!
+<!-- [![Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=chat-svelte&show_icons=true&theme=dark)](https://github.com/Konixy/chat-svelte)  &nbsp;&nbsp;&nbsp; [![VisionOS UI](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=visionos-svelte&show_icons=true&theme=dark)](https://github.com/Konixy/visionos-svelte) -->
 
 ## 🌐 Socials:
 
