@@ -9,8 +9,9 @@
 
 ## 🗂️ Currently working on:
 
-[djPilot](https://djpilot.app/), SaaS I created.
-<!-- [![Chat App](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=chat-svelte&show_icons=true&theme=dark)](https://github.com/Konixy/chat-svelte)  &nbsp;&nbsp;&nbsp; [![VisionOS UI](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=visionos-svelte&show_icons=true&theme=dark)](https://github.com/Konixy/visionos-svelte) -->
+[![Better Svelte Email (dark)](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=better-svelte-email&show_icons=true&theme=dark&bg_color=00000000&border_color=00000000#gh-dark-mode-only)](https://github.com/Konixy/better-svelte-email#gh-dark-mode-only) [![Better Svelte Email (light)](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=better-svelte-email&show_icons=true&theme=default&bg_color=00000000&border_color=00000000#gh-light-mode-only)](https://github.com/Konixy/better-svelte-email#gh-light-mode-only)
+
+...and [djPilot](https://djpilot.app/), a SaaS I created.
 
 ## 🌐 More of me:
 
@@ -22,6 +23,6 @@
 
 ## 📊 Stats:
 
-[![Most used languages-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=Konixy&show_icons=true&theme=dark&bg_color=00000000&border_color=00000000&layout=pie#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![Most used languages-Light](https://github-readme-stats.vercel.app/api/top-langs?username=Konixy&show_icons=true&theme=default&bg_color=00000000&border_color=00000000&layout=pie#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Most used languages-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=Konixy&show_icons=true&theme=dark&bg_color=00000000&border_color=00000000&layout=pie#gh-dark-mode-only)](https://github.com/Konixy#gh-dark-mode-only) [![Most used languages-Light](https://github-readme-stats.vercel.app/api/top-langs?username=Konixy&show_icons=true&theme=default&bg_color=00000000&border_color=00000000&layout=pie#gh-light-mode-only)](https://github.com/Konixy#gh-light-mode-only)
 
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Konixy&show_icons=true&theme=dark&bg_color=00000000&border_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only) [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Konixy&show_icons=true&theme=default&bg_color=00000000&border_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Konixy&show_icons=true&theme=dark&bg_color=00000000&border_color=00000000#gh-dark-mode-only)](https://github.com/Konixy#gh-dark-mode-only) [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Konixy&show_icons=true&theme=default&bg_color=00000000&border_color=00000000#gh-light-mode-only)](https://github.com/Konixy#gh-light-mode-only)
