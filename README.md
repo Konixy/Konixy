@@ -9,7 +9,7 @@
 
 ## 🗂️ Currently working on:
 
-[![Better Svelte Email (dark)](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=better-svelte-email&show_icons=true&theme=dark&bg_color=00000000&border_color=00000000&t=1761605190#gh-dark-mode-only)](https://github.com/Konixy/better-svelte-email#gh-dark-mode-only) [![Better Svelte Email (light)](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=better-svelte-email&show_icons=true&theme=default&bg_color=00000000&border_color=00000000&t=1761605190#gh-light-mode-only)](https://github.com/Konixy/better-svelte-email#gh-light-mode-only)
+[![Better Svelte Email (dark)](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=better-svelte-email&show_icons=true&theme=dark&bg_color=00000000&border_color=00000000&t=1761692589#gh-dark-mode-only)](https://github.com/Konixy/better-svelte-email#gh-dark-mode-only) [![Better Svelte Email (light)](https://github-readme-stats.vercel.app/api/pin/?username=Konixy&repo=better-svelte-email&show_icons=true&theme=default&bg_color=00000000&border_color=00000000&t=1761692589#gh-light-mode-only)](https://github.com/Konixy/better-svelte-email#gh-light-mode-only)
 
 ...and [djPilot](https://djpilot.app/), a SaaS I created.
 
