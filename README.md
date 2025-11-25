@@ -23,6 +23,4 @@
 
 ## 📊 Stats:
 
-[![Most used languages-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=Konixy&show_icons=true&theme=dark&bg_color=00000000&border_color=00000000&layout=pie#gh-dark-mode-only)](https://github.com/Konixy#gh-dark-mode-only) [![Most used languages-Light](https://github-readme-stats.vercel.app/api/top-langs?username=Konixy&show_icons=true&theme=default&bg_color=00000000&border_color=00000000&layout=pie#gh-light-mode-only)](https://github.com/Konixy#gh-light-mode-only)
-
 [![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Konixy&show_icons=true&theme=dark&bg_color=00000000&border_color=00000000#gh-dark-mode-only)](https://github.com/Konixy#gh-dark-mode-only) [![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Konixy&show_icons=true&theme=default&bg_color=00000000&border_color=00000000#gh-light-mode-only)](https://github.com/Konixy#gh-light-mode-only)
