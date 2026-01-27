@@ -23,21 +23,29 @@ jobs:
           path: profile/stats-dark.svg
           token: ${{ secrets.PAT }}
 
-      - name: Generate white stats card
+      - name: Generate light stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=graywhite&bg_color=00000000&border_color=DFE4E9
-          path: profile/stats-white.svg
+          path: profile/stats-light.svg
           token: ${{ secrets.PAT }}
 
-      # - name: Generate top languages card
-      #   uses: readme-tools/github-readme-stats-action@v1
-      #   with:
-      #     card: top-langs
-      #     options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
-      #     path: profile/top-langs.svg
-      #     token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate dark top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=dark&bg_color=00000000&border_color=2F353E
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.PAT }}
+
+      - name: Generate light top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=graywhite&bg_color=00000000&border_color=DFE4E9
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.PAT }}
 
       - name: Generate bse dark pin card
         uses: readme-tools/github-readme-stats-action@v1
@@ -47,12 +55,12 @@ jobs:
           path: profile/pin-better-svelte-email-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate bse white pin card
+      - name: Generate bse light pin card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=Konixy&repo=better-svelte-email&show_icons=true&theme=graywhite&bg_color=00000000&border_color=DFE4E9
-          path: profile/pin-better-svelte-email-white.svg
+          path: profile/pin-better-svelte-email-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
