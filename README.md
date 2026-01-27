@@ -9,7 +9,7 @@
 
 ## 🗂️ Currently working on:
 
-[![Better Svelte Email (dark)](./profile/pin-better-svelte-email-dark.svg#gh-dark-mode-only)](https://github.com/Konixy/better-svelte-email#gh-dark-mode-only) [![Better Svelte Email (light)](./profile/pin-better-svelte-email-white.svg#gh-light-mode-only)](https://github.com/Konixy/better-svelte-email#gh-light-mode-only)
+[![Better Svelte Email (dark)](./profile/pin-better-svelte-email-dark.svg#gh-dark-mode-only)](https://github.com/Konixy/better-svelte-email#gh-dark-mode-only) [![Better Svelte Email (light)](./profile/pin-better-svelte-email-light.svg#gh-light-mode-only)](https://github.com/Konixy/better-svelte-email#gh-light-mode-only)
 
 ...and [djPilot](https://djpilot.app/), a SaaS I created.
 
@@ -23,4 +23,6 @@
 
 ## 📊 Stats:
 
-[![GitHub Stats (dark)](./profile/stats-dark.svg#gh-dark-mode-only)](https://github.com/Konixy#gh-dark-mode-only) [![GitHub Stats (light)](./profile/stats-white.svg#gh-light-mode-only)](https://github.com/Konixy#gh-light-mode-only)
+[![GitHub Stats (dark)](./profile/stats-dark.svg#gh-dark-mode-only)](https://github.com/Konixy#gh-dark-mode-only) [![GitHub Stats (light)](./profile/stats-light.svg#gh-light-mode-only)](https://github.com/Konixy#gh-light-mode-only)
+
+[![Top Langs (dark)](./profile/top-langs-dark.svg#gh-dark-mode-only)](https://github.com/Konixy#gh-dark-mode-only) [![Top Langs (light)](./profile/top-langs-light.svg#gh-light-mode-only)](https://github.com/Konixy#gh-light-mode-only)
