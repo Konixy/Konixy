@@ -1,19 +1,17 @@
-## 🔧 Techs:
+Hi, I'm Anatole, an 18yo passionate developper. I enjoy web technologies and open-source, but I also love learning new technologies and challenging myself. I am currently searching for an apprenticeship in Rouen, France. You can find my CV in [my portfolio](https://konixy.dev). Don't hesitate to send me a message if you have any questions!
 
-[![SvelteKit](https://img.shields.io/badge/SvelteKit-323330?style=for-the-badge&logo=Svelte&logoColor=F83D00)](https://svelte.dev/) [![Next.js](https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=Next.Js&logoColor=fff)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=TypeScript&logoColor=007ACC)](https://www.typescriptlang.org/) [![TailWind](https://img.shields.io/badge/TailWind-323330?style=for-the-badge&logo=tailwindcss&logoColor=36b7f0)](https://tailwindcss.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=69A645)](https://mongodb.com/) [![Prisma](https://img.shields.io/badge/Prisma-323330?style=for-the-badge&logo=prisma&logoColor=fff)](https://www.prisma.io/) [![GraphQL](https://img.shields.io/badge/GraphQL-323330?style=for-the-badge&logo=graphql&logoColor=E10098)](https://graphql.org/)
+----
+
+<!-- ## Techs:
+
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-323330?style=for-the-badge&logo=Svelte&logoColor=F83D00)](https://svelte.dev/) [![Next.js](https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=Next.Js&logoColor=fff)](https://nextjs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=TypeScript&logoColor=007ACC)](https://www.typescriptlang.org/) [![TailWind](https://img.shields.io/badge/TailWind-323330?style=for-the-badge&logo=tailwindcss&logoColor=36b7f0)](https://tailwindcss.com/) [![MongoDB](https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=69A645)](https://mongodb.com/) [![Prisma](https://img.shields.io/badge/Prisma-323330?style=for-the-badge&logo=prisma&logoColor=fff)](https://www.prisma.io/) [![GraphQL](https://img.shields.io/badge/GraphQL-323330?style=for-the-badge&logo=graphql&logoColor=E10098)](https://graphql.org/) -->
 
 <!-- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Konixy&size_weight=0.5&count_weight=0.5&layout=compact&theme=dark) -->
 
-## 🎯 Currently learning:
-[![Golang](https://img.shields.io/badge/Golang-323330?style=for-the-badge&logo=go&logoColor=08A8D2)](https://go.dev/) [![Three.js](https://img.shields.io/badge/Three.js-323330?style=for-the-badge&logo=Three.js&logoColor=fff)](https://threejs.org/)
+<!-- ## Currently learning:
+[![Golang](https://img.shields.io/badge/Golang-323330?style=for-the-badge&logo=go&logoColor=08A8D2)](https://go.dev/) [![Three.js](https://img.shields.io/badge/Three.js-323330?style=for-the-badge&logo=Three.js&logoColor=fff)](https://threejs.org/) -->
 
-## 🗂️ Currently working on:
-
-[![Better Svelte Email (dark)](./profile/pin-better-svelte-email-dark.svg#gh-dark-mode-only)](https://github.com/Konixy/better-svelte-email#gh-dark-mode-only) [![Better Svelte Email (light)](./profile/pin-better-svelte-email-light.svg#gh-light-mode-only)](https://github.com/Konixy/better-svelte-email#gh-light-mode-only)
-
-...and [djPilot](https://djpilot.app/), a SaaS I created.
-
-## 🌐 More of me:
+### My links:
 
 [![Portfolio](https://img.shields.io/badge/konixy.dev-%23fff.svg?style=for-the-badge&logoColor=000&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIEdlbmVyYXRvcjogU1ZHIFJlcG8gTWl4ZXIgVG9vbHMgLS0+DQo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPg0KPGcgaWQ9IkludGVyZmFjZSAvIEV4dGVybmFsX0xpbmsiPg0KPHBhdGggaWQ9IlZlY3RvciIgZD0iTTEwLjAwMDIgNUg4LjIwMDJDNy4wODAwOSA1IDYuNTE5NjIgNSA2LjA5MTggNS4yMTc5OUM1LjcxNTQ3IDUuNDA5NzMgNS40MDk3MyA1LjcxNTQ3IDUuMjE3OTkgNi4wOTE4QzUgNi41MTk2MiA1IDcuMDgwMDkgNSA4LjIwMDJWMTUuODAwMkM1IDE2LjkyMDMgNSAxNy40ODAxIDUuMjE3OTkgMTcuOTA3OUM1LjQwOTczIDE4LjI4NDIgNS43MTU0NyAxOC41OTA1IDYuMDkxOCAxOC43ODIyQzYuNTE5MiAxOSA3LjA3ODk5IDE5IDguMTk2OTEgMTlIMTUuODAzMUMxNi45MjEgMTkgMTcuNDggMTkgMTcuOTA3NCAxOC43ODIyQzE4LjI4MzcgMTguNTkwNSAxOC41OTA1IDE4LjI4MzkgMTguNzgyMiAxNy45MDc2QzE5IDE3LjQ4MDIgMTkgMTYuOTIxIDE5IDE1LjgwMzFWMTRNMjAgOVY0TTIwIDRIMTVNMjAgNEwxMyAxMSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPg0KPC9nPg0KPC9zdmc+)](https://konixy.dev/)
 [![LinkedIn](https://img.shields.io/badge/Anatole%20Dufour-0D66C4?style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBoZWlnaHQ9IjgwMHB4IiB3aWR0aD0iODAwcHgiIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZpZXdCb3g9IjAgMCAzODIgMzgyIiB4bWw6c3BhY2U9InByZXNlcnZlIiBmaWxsPSIjMDAwMDAwIj4KDTxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIi8+Cg08ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KDTxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj4gPHBhdGggc3R5bGU9ImZpbGw6I2ZmZjsiIGQ9Ik0zNDcuNDQ1LDBIMzQuNTU1QzE1LjQ3MSwwLDAsMTUuNDcxLDAsMzQuNTU1djMxMi44ODlDMCwzNjYuNTI5LDE1LjQ3MSwzODIsMzQuNTU1LDM4MmgzMTIuODg5IEMzNjYuNTI5LDM4MiwzODIsMzY2LjUyOSwzODIsMzQ3LjQ0NFYzNC41NTVDMzgyLDE1LjQ3MSwzNjYuNTI5LDAsMzQ3LjQ0NSwweiBNMTE4LjIwNywzMjkuODQ0YzAsNS41NTQtNC41MDIsMTAuMDU2LTEwLjA1NiwxMC4wNTYgSDY1LjM0NWMtNS41NTQsMC0xMC4wNTYtNC41MDItMTAuMDU2LTEwLjA1NlYxNTAuNDAzYzAtNS41NTQsNC41MDItMTAuMDU2LDEwLjA1Ni0xMC4wNTZoNDIuODA2IGM1LjU1NCwwLDEwLjA1Niw0LjUwMiwxMC4wNTYsMTAuMDU2VjMyOS44NDR6IE04Ni43NDgsMTIzLjQzMmMtMjIuNDU5LDAtNDAuNjY2LTE4LjIwNy00MC42NjYtNDAuNjY2UzY0LjI4OSw0Mi4xLDg2Ljc0OCw0Mi4xIHM0MC42NjYsMTguMjA3LDQwLjY2Niw0MC42NjZTMTA5LjIwOCwxMjMuNDMyLDg2Ljc0OCwxMjMuNDMyeiBNMzQxLjkxLDMzMC42NTRjMCw1LjEwNi00LjE0LDkuMjQ2LTkuMjQ2LDkuMjQ2SDI4Ni43MyBjLTUuMTA2LDAtOS4yNDYtNC4xNC05LjI0Ni05LjI0NnYtODQuMTY4YzAtMTIuNTU2LDMuNjgzLTU1LjAyMS0zMi44MTMtNTUuMDIxYy0yOC4zMDksMC0zNC4wNTEsMjkuMDY2LTM1LjIwNCw0Mi4xMXY5Ny4wNzkgYzAsNS4xMDYtNC4xMzksOS4yNDYtOS4yNDYsOS4yNDZoLTQ0LjQyNmMtNS4xMDYsMC05LjI0Ni00LjE0LTkuMjQ2LTkuMjQ2VjE0OS41OTNjMC01LjEwNiw0LjE0LTkuMjQ2LDkuMjQ2LTkuMjQ2aDQ0LjQyNiBjNS4xMDYsMCw5LjI0Niw0LjE0LDkuMjQ2LDkuMjQ2djE1LjY1NWMxMC40OTctMTUuNzUzLDI2LjA5Ny0yNy45MTIsNTkuMzEyLTI3LjkxMmM3My41NTIsMCw3My4xMzEsNjguNzE2LDczLjEzMSwxMDYuNDcyIEwzNDEuOTEsMzMwLjY1NEwzNDEuOTEsMzMwLjY1NHoiLz4gPC9nPgoNPC9zdmc+&logoColor=white)](https://www.linkedin.com/in/anatole-dufour/)
@@ -21,7 +19,13 @@
 [![X](https://img.shields.io/badge/%40anatoleduf-%230f0f0f.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/anatoleduf)
 ![Discord](https://img.shields.io/badge/konixy-%235865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
 
-## 📊 Stats:
+### Currently working on:
+
+[![Better Svelte Email (dark)](./profile/pin-better-svelte-email-dark.svg#gh-dark-mode-only)](https://github.com/Konixy/better-svelte-email#gh-dark-mode-only) [![Better Svelte Email (light)](./profile/pin-better-svelte-email-light.svg#gh-light-mode-only)](https://github.com/Konixy/better-svelte-email#gh-light-mode-only)
+
+...and [djPilot](https://djpilot.app/), a SaaS I created.
+
+### Stats:
 
 [![GitHub Stats (dark)](./profile/stats-dark.svg#gh-dark-mode-only)](https://github.com/Konixy#gh-dark-mode-only) [![GitHub Stats (light)](./profile/stats-light.svg#gh-light-mode-only)](https://github.com/Konixy#gh-light-mode-only)
 
