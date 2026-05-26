@@ -1,4 +1,4 @@
-Hi, I'm Anatole, an 18yo passionate developper. I enjoy web technologies and open-source, but I also love learning new technologies and challenging myself. I am currently searching for an apprenticeship in Rouen, France. You can find my CV in [my portfolio](https://konixy.dev). Don't hesitate to send me a message if you have any questions!
+Hi, I'm Anatole, an 19yo passionate developper. I enjoy web technologies and open-source, but I also love learning new technologies and challenging myself. I am currently searching for an apprenticeship in Rouen, France. You can find my CV in [my portfolio](https://konixy.dev). Don't hesitate to send me a message if you have any questions!
 
 ----
 
