@@ -130,11 +130,11 @@
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">TypeScript</text>
-      <text x="215" y="34" class="lang-name">45.29%</text>
+      <text x="215" y="34" class="lang-name">45.43%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="45.289426884622145%">
+      <svg data-testid="lang-progress" width="45.426422364269165%">
         <rect
             height="8"
             fill="#3178c6"
@@ -149,11 +149,11 @@
   </g><g transform="translate(0, 40)">
     <g class="stagger" style="animation-delay: 600ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">Svelte</text>
-      <text x="215" y="34" class="lang-name">36.90%</text>
+      <text x="215" y="34" class="lang-name">36.82%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="36.89547856116298%">
+      <svg data-testid="lang-progress" width="36.81696791822429%">
         <rect
             height="8"
             fill="#ff3e00"
@@ -168,11 +168,11 @@
   </g><g transform="translate(0, 80)">
     <g class="stagger" style="animation-delay: 750ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">JavaScript</text>
-      <text x="215" y="34" class="lang-name">13.11%</text>
+      <text x="215" y="34" class="lang-name">13.06%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="13.107571574800708%">
+      <svg data-testid="lang-progress" width="13.05971602360839%">
         <rect
             height="8"
             fill="#f1e05a"
@@ -191,7 +191,7 @@
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="2.6524292523548083%">
+      <svg data-testid="lang-progress" width="2.6464402369091937%">
         <rect
             height="8"
             fill="#A97BFF"
@@ -206,11 +206,11 @@
   </g><g transform="translate(0, 160)">
     <g class="stagger" style="animation-delay: 1050ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">CSS</text>
-      <text x="215" y="34" class="lang-name">2.06%</text>
+      <text x="215" y="34" class="lang-name">2.05%</text>
       
     <svg width="205" x="0" y="25">
       <rect data-testid="progress-background" class="progress-background" rx="5" ry="5" x="0" y="0" width="205" height="8"></rect>
-      <svg data-testid="lang-progress" width="2.0550937270593588%">
+      <svg data-testid="lang-progress" width="2.050453456988963%">
         <rect
             height="8"
             fill="#663399"
